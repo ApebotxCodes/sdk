@@ -4,6 +4,7 @@
 
 Built for performance, adaptability, and scalability — Apebotx combines data intelligence with automated execution to help optimize trading strategies across markets.
 
+CA pump.fun : xxxxxxxxxxpump
 ---
 
 ## 🚀 Key Features
